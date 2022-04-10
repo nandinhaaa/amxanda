@@ -8,8 +8,8 @@
   ### Olá eu sou a Amanda, e aqui está algumas informações do meu perfil!
 <div align="center">
   <a href="https://github.com/amxanda">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amxanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amxanda&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amxanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amxanda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
   ![Snake animation](https://github.com/amxanda/amxanda/blob/output/github-contribution-grid-snake.svg)
@@ -18,6 +18,4 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/c297ff1215de1d2d4b8c48cfd4a42349.gif">
 </div>
