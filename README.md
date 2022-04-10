@@ -1,3 +1,8 @@
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="right" alt="Marisa-pic" height="150" style="border-radius:50px;" src="https://uploads.spiritfanfiction.com/historias/capitulos/201701/um-bad-boy-que-eu-amo-7899207-300120170955.jpg">
+</div>
+
 ## Olá, eu sou a Amanda e aqui estão algumas informações do meu perfil:
 
 <div> 
@@ -15,9 +20,4 @@
  
   ![Snake animation](https://github.com/amxanda/amxanda/blob/output/github-contribution-grid-snake.svg)
  
-</div>
- 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="right" alt="Marisa-pic" height="150" style="border-radius:50px;" src="https://uploads.spiritfanfiction.com/historias/capitulos/201701/um-bad-boy-que-eu-amo-7899207-300120170955.jpg">
 </div>
