@@ -1,8 +1,8 @@
 <div style="display: inline_block"><br>
-  <img align="center" alt="Marisa-Js" height="60" width="70" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-java-computer-programming-flaticons-lineal-color-flat-icons.png">
-  <img align="center" alt="Marisa-Js" height="60" width="70" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png">  
-  <img align="center" alt="Marisa-Js" height="60" width="70" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-c-sharp-computer-programming-flaticons-lineal-color-flat-icons.png">
-  <img align="right" alt="Marisa-pic" height="150" style="border-radius:50px;" src="https://uploads.spiritfanfiction.com/historias/capitulos/201701/um-bad-boy-que-eu-amo-7899207-300120170955.jpg">
+  <img align="center" alt="Amanda-C" height="30" width="30" src="https://img.icons8.com/color/344/c-programming.svg">
+  <img align="center" alt="Amanda-C#" height="30" width="30" src="https://img.icons8.com/color/344/c-plus-plus-logo.svg">
+  <img align="center" alt="Amanda-J" height="30" width="40" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.svg">  
+   <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://uploads.spiritfanfiction.com/historias/capitulos/201701/um-bad-boy-que-eu-amo-7899207-300120170955.jpg">
 </div>
 
 ## Olá, eu sou a Amanda e aqui estão algumas informações do meu perfil:
